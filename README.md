@@ -25,7 +25,7 @@ With your support, we can sustain this project. If you use this project for work
 </p>
 
 <p>
-It's a high-performance alternative API to whatzapp, you can send, text messages, files, images, videos and more.
+It's a high-performance alternative API to WhatsApp, you can send, text messages, files, images, videos and more.
 </p>
 <p>
 Remember, the API was developed on a platform called RESTful Web services, providing interoperability between computer systems on the Internet.

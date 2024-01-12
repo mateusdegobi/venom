@@ -641,7 +641,7 @@ export async function statusLog(
   while (true) {
     if (page.isClosed()) {
       try {
-        spinnies.fail(`whatzapp-intro-${session}`, {
+        spinnies.fail(`whatsapp-intro-${session}`, {
           text: 'Erro intro'
         });
       } catch {}
